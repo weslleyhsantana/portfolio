@@ -25,6 +25,9 @@ Segue abaixo alguns projetos que desenvolvi durante a minha carreira.
 
 
 
+
+
+
 ## **Agenda Beauty - Cliente WEB**
 
 Aplicativo PWA para agendamento de serviços de beleza.

@@ -4,6 +4,27 @@
 Segue abaixo alguns projetos que desenvolvi durante a minha carreira.
 
 
+
+
+## Aplicativos publicados na Google Play
+
+[Agenda Beauty - Profissional](https://play.google.com/store/apps/details?id=br.com.agendabeauty.profissional)
+
+[Agenda Beauty - Cliente](https://play.google.com/store/apps/details?id=br.com.agendabeauty)
+
+[Top Pedidos](https://play.google.com/store/apps/details?id=br.inf.topsoft.tspedidos)
+
+[Portfólio da empresa anterior](https://play.google.com/store/apps/developer?id=Top%20Soft%20Inform%C3%A1tica)
+*Participei do desenvolvimento de alguns desses
+
+## Publicado na AppStore
+[Agenda Beauty](https://apps.apple.com/br/developer/fernando-santos/id1528904641)
+
+
+
+
+
+
 ## **Agenda Beauty - Cliente WEB**
 
 Aplicativo PWA para agendamento de serviços de beleza.
